@@ -37,8 +37,8 @@ This project was developed as the **Final Capstone** for the **Distributed Syste
 | **Course Information** | **Details** |
 | :--- | :--- |
 | **University** | Universidad Nacional Autónoma de México (UNAM) |
-| **Faculty** | **Facultad de Ingeniería (FI)** |
-| **Course** | Sistemas Distribuidos (Distributed Systems) |
+| **Faculty** | **Faculty of Engineering (FI)** |
+| **Course** | Distributed Systems |
 | **Professor** | M.I. Jasmine Macedo Reza |
 | **Semester** | 2026-1 |
 | **Group** | 01 |
