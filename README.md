@@ -32,11 +32,12 @@ Unlike a monolithic application, this platform utilizes **Docker containers** to
 
 ## Academic Context
 
-This project was developed as the **Final Capstone** for the **Distributed Systems** course at the **National Autonomous University of Mexico (UNAM)**, Faculty of Engineering.
+This project was developed as the **Final Capstone** for the **Distributed Systems** course at the **National Autonomous University of Mexico (UNAM)**.
 
 | **Course Information** | **Details** |
 | :--- | :--- |
 | **University** | Universidad Nacional Autónoma de México (UNAM) |
+| **Faculty** | **Facultad de Ingeniería (FI)** |
 | **Course** | Sistemas Distribuidos (Distributed Systems) |
 | **Professor** | M.I. Jasmine Macedo Reza |
 | **Semester** | 2026-1 |
