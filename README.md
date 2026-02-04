@@ -67,16 +67,6 @@ The system follows a client-server model orchestrated via Docker:
 
 ---
 
-## Screenshots
-
-### Product Catalog
-![Catalog Interface](INSERT_IMAGE_LINK_HERE)
-
-### Shopping Cart & Checkout
-![Checkout Process](INSERT_IMAGE_LINK_HERE)
-
----
-
 ## Getting Started
 
 To run **ShopConnect** locally, you only need Docker installed. No other dependencies are required on your host machine.
